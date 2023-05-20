@@ -14,7 +14,7 @@ function App() {
           <h1 class="title is-1 is-spaced" style={{color: textcolor}}> Hello My Name is <strong>Pieter Swanepoel</strong> </h1>
           <p class="subtitle is-3" style={{color: textcolor}}> I am A Full stack Software Engineer      </p>
           <ProfileImage/>
-          <img src={process.env.PUBLIC_URL + '/backdrop.jpg'} />
+          {/* <img src={process.env.PUBLIC_URL + '/backdrop.jpg'} /> */}
           <p class="title is-1 is-spaced" style={{color: textcolor}}> A Little About me  :   </p>
 
 
@@ -35,13 +35,6 @@ function App() {
           </div>
   
 </div>
-          
-          
-          
-          
-   
-            
-
       </div>
              
   <ContentBody/>
