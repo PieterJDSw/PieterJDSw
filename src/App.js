@@ -18,7 +18,7 @@ function App() {
           <p class="title is-1 is-spaced mt-5 mb-5" style={{color: textcolor}}> A Little About me  :   </p>
           <div class="columns">
           <div class="column">
-          <Card message ={"I am married"} src={process.env.PUBLIC_URL + '/_DSC7601.jpg'}/> 
+          <Card message ={"I am married"} src={process.env.PUBLIC_URL + '/ons2.jpg'}/> 
           </div>
           {/* <div class="column">
           <Card message ={"Myself and my wife have two dogs"} src={process.env.PUBLIC_URL + '/ons.jpg'}/> 
