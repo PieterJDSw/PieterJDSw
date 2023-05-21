@@ -9,8 +9,6 @@ export const items = [{
     items: [
         { cardTitle: 'Vodacom',cardSubtitle: "Software Engineer" },
         { cardTitle: 'Absa' ,cardSubtitle: "Software Engineer"},
-        { cardTitle: 'Absa' },
-        { cardTitle: 'Absa' },
       ],
     
   },

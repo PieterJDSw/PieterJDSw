@@ -8,7 +8,7 @@ function Card({message,src}) {
     <div class="card has-background-dark">
     <div class="card-image">
       <figure class="image is-6by3">
-        <img src={src} alt="Placeholder image"/> 
+        <img src={src} /> 
       </figure>
     </div>
     <div class="card-content">
