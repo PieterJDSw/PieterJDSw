@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I am **Pieter Swanepoel** working as **Software Engineer @ BBD Software Engineering South Africa**. 
+I am **Pieter Swanepoel** working as **Software Engineer @ Entelect Software South Africa**. 
 ---
 I am an Experienced **Software Engineer** with a demonstrated history of working in the software engineering space as a consultant in the finance space under credit investment banking.
 
