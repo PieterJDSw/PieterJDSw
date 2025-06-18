@@ -22,7 +22,7 @@ Strong engineering professional with a Bachelor of Honors in  Computer Science f
 
 ---
 
-- 🔭 I’m currently working as **Software Engineer @ Entelect Software South Africa**
+- 🔭 I’m currently working as **Software Engineer @ BBD Software South Africa**
 - 🌱 I’m currently learning **Rust**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 🤔 Any Advice on Cool Rust Resources?
