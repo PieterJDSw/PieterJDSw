@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I am **Pieter Swanepoel** working as **Software Engineer @ Entelect Software South Africa**. 
+I am **Pieter Swanepoel** working as **Software Engineer @ BBD Software South Africa**. 
 ---
 I am an Experienced **Software Engineer** with a demonstrated history of working in the software engineering space as a consultant in the finance space under credit investment banking.
 
@@ -10,7 +10,7 @@ I am an Experienced **Software Engineer** with a demonstrated history of working
 **Skilled in Angular, Java, Java Spring boot,  Golang, RESTful API’s, Java EE, JPA, Jax-rs, Aws Certified, and have a very curious mind to learn anything new and interesting related to cloud, back end and distributed scalable systems. I also am familiar with tools such as jenkins, kafka, rabbitMq and docker**.
 
 
-Strong engineering professional with a Bachelor of Honors in  Computer Science from the North-West University, and i am currently doing my masters in deep learning with computer vision.
+Strong engineering professional with a Bachelor of Honors in  Computer Science from the North-West University, and a masters in deep learning with computer vision.
 
 
 
