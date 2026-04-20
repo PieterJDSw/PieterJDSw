@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I am **Pieter Swanepoel** working as **Software Engineer @ BBD Software South Africa**. 
+I am **Pieter Swanepoel** working as **Team Lead/Lead Software Engineer @ Retro Rabbit software South Africa**. 
 ---
 I am an Experienced **Software Engineer** with a demonstrated history of working in the software engineering space as a consultant in the finance space under credit investment banking.
 
@@ -22,7 +22,7 @@ Strong engineering professional with a Bachelor of Honors in  Computer Science f
 
 ---
 
-- 🔭 I’m currently working as **Software Engineer @ BBD Software South Africa**
+- 🔭 I’m currently working as **Software Engineer @ Retro Rabbit software**
 - 🌱 I’m currently learning **Rust**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 🤔 Any Advice on Cool Rust Resources?
